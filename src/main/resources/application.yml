@@ -1,0 +1,6 @@
+spring:
+  thymeleaf:
+    cache: false
+use:
+  thousand:
+    separator: false
